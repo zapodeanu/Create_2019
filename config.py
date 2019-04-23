@@ -15,6 +15,10 @@ SUB_KEY = 'sub-c-xyz'
 SEC_KEY = 'sec-c-xyz'
 CHANNEL = 'xyz'
 
+# Update this section with the DNA Center server info and user information
+DNAC_URL = 'https://10.1.1.100'
+DNAC_USER = 'admin'
+DNAC_PASS = 'cisco'
 
 # Update this section with the Service Now instance to be used for labs
 SNOW_URL = 'https://dev12345.service-now.com/api/now'
