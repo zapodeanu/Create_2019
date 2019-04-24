@@ -13,7 +13,7 @@
 PUB_KEY = 'pub-c-27ec1abf-2226-4140-884f-2ca96fa42f4f'
 SUB_KEY = 'sub-c-32e23d48-d884-11e8-b7c4-3e16c06ff365'
 SEC_KEY = 'sec-c-xyz'
-CHANNEL = 'xyz'
+CHANNEL = 'to be provided'
 
 # Update this section with the DNA Center server info and user information
 DNAC_URL = 'https://10.1.1.100'
@@ -24,7 +24,7 @@ DNAC_PASS = 'cisco'
 SNOW_URL = 'https://dev48476.service-now.com/api/now'
 SNOW_ADMIN = 'IOSXE'
 SNOW_DEV = 'IOSXE'
-SNOW_PASS = 'xyz'
+SNOW_PASS = 'to be provided'
 SNOW_INSTANCE = 'dev48476'
 
 
