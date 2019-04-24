@@ -149,3 +149,7 @@ def get_restconf_capabilities(ios_xe_host, ios_xe_user, ios_xe_pass):
     capabilities_json =  response.json()
     return capabilities_json['ietf-netconf-monitoring:capabilities']
 
+
+# retrieve the device hostname using RESTCONF
+DEVICE_HOSTNAME = netconf_restconf.get_restconf_hostname(IOS_XE_HOST_IP, IOS_XE_USER, IOS_XE_PASS)
+print(str('\nThe device hostname: ' + DEVICE_HOSTNAME))
