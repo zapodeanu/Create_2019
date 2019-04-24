@@ -21,11 +21,11 @@ DNAC_USER = 'admin'
 DNAC_PASS = 'cisco'
 
 # Update this section with the Service Now instance to be used for labs
-SNOW_URL = 'https://dev12345.service-now.com/api/now'
+SNOW_URL = 'https://dev48476.service-now.com/api/now'
 SNOW_ADMIN = 'IOSXE'
 SNOW_DEV = 'IOSXE'
 SNOW_PASS = 'xyz'
-SNOW_INSTANCE = 'dev12345'
+SNOW_INSTANCE = 'dev48476'
 
 
 # Update this section with the info for the Catalyst 9k to be used during the IOS XE Module
