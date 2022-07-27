@@ -1,5 +1,5 @@
 # Create_2019
-DevNet Create 2019 - "Project WhatsOp - IOS XE Meassging Platform" Workshop
+DevNet Create 2019 - "Project WhatsOp - IOS XE Messaging Platform" Workshop
 
 This repo includes all the files neede for the DevNet Create workshop.
 
